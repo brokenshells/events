@@ -1,0 +1,18 @@
+{
+	"items": [
+		{
+			"id": "recruitment-2026",
+			"kind": "event",
+			"date": "2026-10-08",
+			"title": {
+				"en": "Recruitment opens",
+				"el": "Ξεκινούν οι αιτήσεις νέων μελών"
+			},
+			"summary": {
+				"en": "New ECE students are welcome. Send us a message and we will send you your first challenge.",
+				"el": "Καλωσορίζουμε νέους φοιτητές ΗΜΜΥ. Στείλτε μας μήνυμα και θα σας στείλουμε την πρώτη άσκηση."
+			},
+			"tags": ["recruitment"]
+		}
+	]
+}
